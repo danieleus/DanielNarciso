@@ -1,0 +1,35 @@
+#caixa1{
+    width: 400px;
+    height: 700px;
+    float: right;
+    font-size: 27px;
+    margin-left: 100px;
+    background-color: blue;
+    color:gold;
+}
+#caixa2{
+    width: 900px;
+    height: 50px;
+    margin-left: 200px;
+    font-size: 27px;
+    background-color: aqua;
+    color: gold; 
+}
+#caixa3{
+    margin-top: -50px;
+    width:900px;
+    height: 643px;
+    font-size: 30px;
+    background-color: aqua;
+    margin-left: 200px;
+    color:black;
+}
+#caixa4{
+    margin-top: -50px;
+    width: 900px;
+    height: 34px;
+    margin-left: 200px;
+    font-size: 30px;
+    background-color: aquamarine;
+    color:gold;
+}
